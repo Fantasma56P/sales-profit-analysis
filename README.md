@@ -27,7 +27,7 @@ The goal is to identify high-performing regions and understand profit efficiency
 - Track margin trends monthly for early anomaly detection.
 
 ## 📊 Visualization
-![Regional Sales Chart](chart-image-placeholder)
+![Regional Sales Chart](sales_chart.png)
 
 ## 🧾 Data Source
 Sample Superstore dataset from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
